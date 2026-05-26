@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --color-wingstone-dark: #0B0B0B;
+  --color-wingstone-cardDark: #161616;
+  --color-wingstone-light: #F9F9F9;
+  --color-wingstone-cardLight: #FFFFFF;
+  --color-wingstone-accent: #D4AF37;
+  --color-wingstone-muted: #8E8E93;
+}
